@@ -11,7 +11,7 @@
 "RC0603FR-0711KL","3","","11k","R3, R8, R95","eas_cdb_resistor:R_0603_1608Metric","Resistor SMD 0603, 11kOhm, 1%, 1/10W"
 "RC0603FR-07120KL","1","","120k","R4","eas_cdb_resistor:R_0603_1608Metric","Resistor SMD 0603, 120kOhm, 1%, 1/10W"
 "RC0603FR-075K1L","1","","5.1k","R5","eas_cdb_resistor:R_0603_1608Metric","Resistor SMD 0603, 5.1kOhm, 1%, 1/10W"
-"RC0603FR-07100RL","1","","100","R7","eas_cdb_resistor:R_0603_1608Metric","Resistor SMD 0603, 100Ohm, 1%, 1/10W"
+"RC0603FR-07470RL","1","","470","R7","eas_cdb_resistor:R_0603_1608Metric","Resistor SMD 0603, 470Ohm, 1%, 1/10W"
 "3314G-1-103E","1","","10k","R9","eas_cdb_resistor:Potentiometer_Bourns_3314G_Vertical","Poti, Trimmer, 4x4mm, 10kOhm, 20%, 0.25W,"
 "RC0603FR-0751KL","1","","56k","R11","eas_cdb_resistor:R_0603_1608Metric","Resistor SMD 0603, 51kOhm, 1%, 1/10W"
 "AP3012KTR-G1","1","","","U2","eas_cdb_power:TSOT-23-5","500mA, Adjustable Step-Up Voltage Regulator, 1.5MHz Frequency, SOT-23-5"
