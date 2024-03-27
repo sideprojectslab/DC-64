@@ -5,6 +5,11 @@ The two versions share the power supply section of the circuit and only differ i
 - DC-64a features a 555-like RC oscillator that can be manually calibrated with a trimmer.
 - DC-64d features a high-precision crystal oscillator driving a small microcontroller that acts as a clock divider. This board does not require calibration.
 
+If you would like to get in touch with the developer, please join the SPL discord server at this link:
+https://discord.gg/gJsCgebkDw
+
+![](https://github.com/sideprojectslab/DC-64/blob/main/doc/pictures/DC-64.png)
+
 ## Compatibility
 DC-64 aims to be compatible with all versions of the C64 motherboard. A live list of verified compatible motherboards is shown below:
 
